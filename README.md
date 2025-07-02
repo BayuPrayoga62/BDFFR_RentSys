@@ -1,11 +1,17 @@
 # BDFFR_RentSys
 
 Projek ini dibuat untuk memenuhi Tugas UAS Kuliah : Pemrograman 1.
+
 Kelompok 5
+
 BAYU PRAYOGA		( 231011402771 )
+
 DION MAULUDIN		( 231011400136 )
+
 FERDY ARDIANSYAH	( 231011402416 )
+
 FIRZA ZAKARIA 		( 231011400124 )
+
 RAFI MUPASHAL 		( 231011400146 )
 
 
